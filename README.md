@@ -1,3 +1,6 @@
+# alura-react-escrevendo-com-typescript
+Curso de React: Escrevendo com TypeScript da plataforma Alura na formação React com Typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
